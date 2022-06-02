@@ -1,2 +1,2 @@
 # CV
-https://bca2nd.github.io/CV/ Tab here for a quick review of my project.
+https://chinmay191201.github.io/CV/ Tab here for a quick review of my project.
